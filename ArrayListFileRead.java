@@ -49,8 +49,8 @@ public class ArrayListFileRead
           records.add(sobj);
         }
 
-        length=records.size();
-        System.out.println("Display size of the ArrayList:" +length);
+        //length=records.size();
+        //System.out.println("Display size of the ArrayList:" +length);
         System.out.println("***************************************");
 
 /*         for(Student st:records)//1st way
